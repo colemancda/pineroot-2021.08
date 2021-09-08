@@ -10,7 +10,7 @@ qt-quick skeleton application as embedded [QT5](https://www.qt.io/) demo for kic
 
 Our approach is simple, manageable and embedded friendly, thanks to buildroot.
 
-![buildroot process](https://github.com/e59e4835/pineroot-2021.08/blob/master/img/buildroot-process.png)
+![buildroot process](https://github.com/e59e4835/pineroot-2021.08/blob/main/img/buildroot-process.png)
 
 
 ## Build your image
