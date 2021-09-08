@@ -17,7 +17,7 @@ Our approach is simple, manageable and embedded friendly, thanks to buildroot.
 
 ```
 git clone https://github.com/e59e4835/pineroot-2021.08.git
-cd pineroot-2021.08/buildroot-2021.02.2/
+cd pineroot-2021.08/buildroot-2021.08/
 make pinephone_defconfig
 make
 ```
